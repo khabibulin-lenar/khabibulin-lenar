@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @khabibulin-lenar
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Flask, Docker, Kubernetes and AWS technologies
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on interesting ideas
 - 📫 How to reach me. Email: khabibulin.lenar@gmail.com LinkedIn: https://www.linkedin.com/in/khabibulin-lenar/
 <!---
